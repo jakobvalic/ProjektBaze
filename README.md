@@ -1,4 +1,5 @@
-# ProjektBaze
-Seminarska naloga pri projektu Podatkovne baze, 3. letnik Praktične matematike, FMF.
+﻿# ProjektBaze
+Seminarska naloga pri projektu Podatkovne baze.
 
 Šolsko leto: 2017/18.
+Letnik: 3.
