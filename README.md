@@ -6,3 +6,7 @@ Letnik: [3.](https://ucilnica.fmf.uni-lj.si/)
 
 ## Zagon
 Zagon s terminalne vrstice
+
+## ER diagram
+
+![ER diagram]bankaDiagram.png
