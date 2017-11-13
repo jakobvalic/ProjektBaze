@@ -9,4 +9,4 @@ Zagon s terminalne vrstice
 
 ## ER diagram
 
-![ER diagram]bankaDiagram.png
+![ER diagram](bankaDiagram.png)
